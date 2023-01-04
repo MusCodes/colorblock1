@@ -1,0 +1,33 @@
+.firstBox{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding: 30px;
+    margin-right: 10px;
+
+}
+.secondBox{
+    background-color: blue;
+    width: 100px;
+height: 100px;
+display: inline-block;
+padding: 30px;
+margin-right: 10px;
+}
+.thirdBox{
+    background-color: green;
+    width: 100px;
+height: 100px;
+display: inline-block;
+padding: 30px;
+margin-right: 10px;
+}
+.fourthBox{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding: 30px;
+margin-right: 10px;
+}
